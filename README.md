@@ -3,6 +3,7 @@
 ### Olá 👋
 
 👶🏽 Desde criança gosto muito da área de tecnologia, sempre desmontava os meus brinquedos para ver como funcionavam.
+
 🧍🏽‍♂️ Quando era adolescente, me interessei por pentest  aprendi explora algumas falhas várias como: MySql Injection, falhas no cPanel, falhas em CMS (Joomla e WordPress) entre outras.
 
 👨🏽‍💻 Atualmente, estou cursando ADS, estudando a linguagem C, Kotlin, Java e Linux.
